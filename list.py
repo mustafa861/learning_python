@@ -7,3 +7,5 @@ a=[user_input1, user_input2, user_input3]
 
 print(a)
 
+
+
